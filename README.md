@@ -18,7 +18,7 @@
 I'm a **React Developer** based in **Salt Lake City, UT**, currently working at **@SnapFinance**. I love building clean, fast, and user-friendly web applications. I'm passionate about front-end development, component architecture, and delivering great user experiences.
 
 - 🔭 Currently working on React & TypeScript projects at SnapFinance
-- 🌱 Currently learning **Next.js**, **GraphQL**, and **AWS**
+- 🌱 Currently learning **Next.js**, **GraphQL**, **AWS**, and **AI/Machine Learning**
 - 💡 Ask me about **React**, **JavaScript**, **TypeScript**, or **Angular**
 - 🤝 Open to collaborating on interesting front-end or full-stack projects
 - ⚡ Fun fact: I believe there's still life beyond JavaScript... but not much 😄
@@ -47,31 +47,16 @@ I'm a **React Developer** based in **Salt Lake City, UT**, currently working at 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 
+**AI & Machine Learning**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat)
+
 ---
 
 ## 📌 Featured Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [**venue**](https://github.com/mahesh-gorla/venue) | A venue management web app | JavaScript |
-| [**angular-app**](https://github.com/mahesh-gorla/angular-app) | Angular sample app with live demo | TypeScript / Angular |
-| [**Grocery-Cart-CRUD**](https://github.com/mahesh-gorla/Grocery-Cart-CRUD) | Full CRUD grocery cart app | JavaScript |
-| [**100-days-coding**](https://github.com/mahesh-gorla/100-days-coading) | 100 days of coding challenges | JavaScript |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahesh-gorla&show_icons=true&theme=dark&hide_border=true" alt="Mahesh's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahesh-gorla&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
-  💬 <i>Let's connect and build something great together!</i>
-</p>
